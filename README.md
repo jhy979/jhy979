@@ -1,6 +1,6 @@
 <h3 align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=안녕하세요👋%20%20나인입니다.&fontSize=60&animation=fadeIn&fontAlignY=38&desc=지속%20가능한%20개발자를%20지향하는&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=안녕하세요👋%20%20나인입니다.&fontSize=60&animation=fadeIn&fontAlignY=38&desc=지속%20가능한%20개발을%20지향하는&descAlignY=51&descAlign=62)
   
 </h3>
 
@@ -10,7 +10,9 @@
   <a href="mailto:white_la@naver.com"><img src="https://img.shields.io/badge/Email-44A833?style=flat-square&logo=Mail.Ru&logoColor=white&link=jhy979@gmail.com"/></a>&nbsp
 </p>
 
+<!-- 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
+-->
  
 </p>
