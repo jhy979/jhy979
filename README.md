@@ -1,6 +1,6 @@
 <h3 align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=안녕하세요👋%20%20나인입니다.&fontSize=60&animation=fadeIn&fontAlignY=38&desc=지속%20가능한%20개발을%20지향하는&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=안녕하세요👋%20%20나인입니다.&fontSize=60&animation=fadeIn&fontAlignY=38&desc=고통스러워야%20성장이다&descAlignY=51&descAlign=62)
   
 </h3>
 
